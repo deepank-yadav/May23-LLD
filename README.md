@@ -1,4 +1,5 @@
 A one-stop repository for resources related to LLD.
+
 https://medium.com/@thecodebean/implementing-jwt-authentication-in-a-spring-boot-application-5a7a94d785d1
 https://medium.com/@thecodebean/builder-design-pattern-implementation-in-java-6adc6fd99ee0
 https://medium.com/@thecodebean/factory-design-pattern-implementation-in-java-bd16ebb012e2
