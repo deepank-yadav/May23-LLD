@@ -9,3 +9,4 @@ https://medium.com/@thecodebean/singleton-design-pattern-implementation-in-java-
 https://medium.com/@thecodebean/adapter-design-pattern-implementation-in-java-72f4a19af3c1
 https://medium.com/@thecodebean/bridge-design-pattern-implementation-in-java-f71c853979fe
 https://medium.com/@thecodebean/decorator-design-pattern-implementation-in-java-af632380e249
+https://medium.com/@thecodebean/flyweight-design-pattern-implementation-in-java-aefa07fde038
